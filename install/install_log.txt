@@ -1,0 +1,125 @@
+[2023-06-02 11:53:00] INSTALL.INFO: Installer Step 1 [] {"uid":"fb972fa","method":"GET","route":"/"}
+[2023-06-02 11:58:35] INSTALL.INFO: Installer Step 1 [] {"uid":"6940b9a","method":"GET","route":"/"}
+[2023-06-02 11:58:36] INSTALL.INFO: Installer Step 1 [] {"uid":"ec95c1b","method":"GET","route":"/"}
+[2023-06-02 11:58:44] INSTALL.INFO: Installer Step 1 [] {"uid":"d562d9f","method":"GET","route":"/"}
+[2023-06-02 11:58:45] INSTALL.INFO: Installer Step 1 [] {"uid":"65c1503","method":"GET","route":"/"}
+[2023-06-02 11:58:45] INSTALL.INFO: Installer Step 1 [] {"uid":"3613e63","method":"GET","route":"/"}
+[2023-06-02 11:58:46] INSTALL.INFO: Installer Step 1 [] {"uid":"97152b8","method":"GET","route":"/"}
+[2023-06-02 11:58:46] INSTALL.INFO: Installer Step 1 [] {"uid":"cf9a3b2","method":"GET","route":"/"}
+[2023-06-02 11:58:56] INSTALL.INFO: Installer Step 1 [] {"uid":"7e32907","method":"GET","route":"/"}
+[2023-06-02 11:58:56] INSTALL.INFO: Installer Step 1 [] {"uid":"112b66e","method":"GET","route":"/"}
+[2023-06-02 12:00:09] INSTALL.INFO: Installer Step 1 [] {"uid":"a6a0ac0","method":"GET","route":"/"}
+[2023-06-02 12:00:10] INSTALL.INFO: Installer Step 1 [] {"uid":"b227c48","method":"GET","route":"/"}
+[2023-06-02 12:00:41] INSTALL.INFO: Installer Step 1 [] {"uid":"a098450","method":"GET","route":"/"}
+[2023-06-02 12:00:50] INSTALL.INFO: Installer Step 1 [] {"uid":"9e41a70","method":"GET","route":"/"}
+[2023-06-02 12:00:51] INSTALL.INFO: Installer Step 1 [] {"uid":"841503c","method":"GET","route":"/"}
+[2023-06-02 12:01:06] INSTALL.INFO: Installer Step 1 [] {"uid":"65c1cfc","method":"GET","route":"/"}
+[2023-06-02 12:02:05] INSTALL.INFO: Installer Step 1 [] {"uid":"e2b5af4","method":"GET","route":"/"}
+[2023-06-02 12:06:18] INSTALL.INFO: Installer Step 1 [] {"uid":"1b10c14","method":"GET","route":"/"}
+[2023-06-02 12:06:50] INSTALL.INFO: Installer Step 1 [] {"uid":"3dab68a","method":"GET","route":"/"}
+[2023-06-02 12:07:39] INSTALL.INFO: Installer Step 1 [] {"uid":"0e0b206","method":"GET","route":"/"}
+[2023-06-02 12:09:46] INSTALL.INFO: Installer Step 1 [] {"uid":"702dd47","method":"GET","route":"/"}
+[2023-06-02 12:09:57] INSTALL.INFO: Installer Step 1 [] {"uid":"f6eb354","method":"GET","route":"/"}
+[2023-06-02 12:10:27] INSTALL.INFO: Installer Step 1 [] {"uid":"e09576d","method":"GET","route":"/"}
+[2023-06-02 12:10:58] INSTALL.INFO: Installer Step 1 [] {"uid":"10b2d27","method":"GET","route":"/"}
+[2023-06-02 12:11:19] INSTALL.INFO: Installer Step 1 [] {"uid":"953dd00","method":"GET","route":"/"}
+[2023-06-02 12:12:05] INSTALL.INFO: Installer Step 1 [] {"uid":"11376f5","method":"GET","route":"/"}
+[2023-06-02 12:12:37] INSTALL.INFO: Installer Step 1 [] {"uid":"cda2d41","method":"GET","route":"/"}
+[2023-06-02 12:12:57] INSTALL.INFO: Installer Step 1 [] {"uid":"469217f","method":"GET","route":"/1"}
+[2023-06-02 12:16:23] INSTALL.INFO: Installer Step 1 [] {"uid":"836e2f0","method":"GET","route":"/1"}
+[2023-06-02 12:20:10] INSTALL.INFO: Installer Step 1 [] {"uid":"50111c7","method":"GET","route":"/1"}
+[2023-06-02 12:20:13] INSTALL.INFO: Installer Step 1 [] {"uid":"95786ff","method":"GET","route":"/1"}
+[2023-06-02 12:20:16] INSTALL.INFO: Installer Step 1 [] {"uid":"f5c45a1","method":"GET","route":"/1"}
+[2023-06-02 12:20:21] INSTALL.INFO: Installer Step 1 [] {"uid":"8f79a7e","method":"GET","route":"/"}
+[2023-06-02 12:20:30] INSTALL.INFO: Installer Step 1 [] {"uid":"003546b","method":"GET","route":"/1"}
+[2023-06-02 12:21:41] INSTALL.INFO: Installer Step 1 [] {"uid":"35d45f2","method":"GET","route":"/1"}
+[2023-06-02 12:22:31] INSTALL.INFO: Installer Step 1 [] {"uid":"84d2a8e","method":"GET","route":"/1"}
+[2023-06-02 12:22:35] INSTALL.INFO: Installer Step 1 [] {"uid":"7c5b146","method":"GET","route":"/1"}
+[2023-06-02 12:22:45] INSTALL.INFO: Installer Step 1 [] {"uid":"9ae190c","method":"GET","route":"/1"}
+[2023-06-02 12:24:54] INSTALL.INFO: Installer Step 1 [] {"uid":"b40cd81","method":"GET","route":"/1"}
+[2023-06-02 12:25:03] INSTALL.INFO: Installer Step 1 [] {"uid":"7a0debe","method":"GET","route":"/1"}
+[2023-06-02 12:25:06] INSTALL.INFO: Installer Step 1 [] {"uid":"cf70709","method":"GET","route":"/1"}
+[2023-06-02 13:36:38] INSTALL.INFO: Installer Step 1 [] {"uid":"87cf791","method":"GET","route":"/"}
+[2023-06-02 13:36:43] INSTALL.INFO: Installer Step 1 [] {"uid":"dabcccd","method":"GET","route":"/1"}
+[2023-06-02 13:38:49] INSTALL.INFO: Installer Step 1 [] {"uid":"55bdef3","method":"GET","route":"/1"}
+[2023-06-02 13:39:00] INSTALL.INFO: Installer Step 2 [] {"uid":"b619cb0","method":"GET","route":"/2"}
+[2023-06-02 13:43:34] INSTALL.INFO: Installer Step 3 [] {"uid":"df418ab","method":"POST","route":"/3"}
+[2023-06-02 13:43:34] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"df418ab","method":"POST","route":"/3"}
+[2023-06-02 13:43:34] INSTALL.ERROR: Installation Exception on Step 3: Please provide a password for the new database. [] {"uid":"df418ab","method":"POST","route":"/3"}
+[2023-06-02 13:44:10] INSTALL.INFO: Installer Step 3 [] {"uid":"a1f2880","method":"POST","route":"/3"}
+[2023-06-02 13:44:10] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"a1f2880","method":"POST","route":"/3"}
+[2023-06-02 13:44:10] INSTALL.ERROR: Installation Exception on Step 3: Please provide a password for the existing database. [] {"uid":"a1f2880","method":"POST","route":"/3"}
+[2023-06-02 13:44:26] INSTALL.INFO: Installer Step 3 [] {"uid":"fc28e71","method":"POST","route":"/3"}
+[2023-06-02 13:44:26] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"fc28e71","method":"POST","route":"/3"}
+[2023-06-02 13:44:26] INSTALL.ERROR: Installation Exception on Step 3: Please provide a password for the existing database. [] {"uid":"fc28e71","method":"POST","route":"/3"}
+[2023-06-02 13:45:10] INSTALL.INFO: Installer Step 3 [] {"uid":"4378bd4","method":"POST","route":"/3"}
+[2023-06-02 13:45:10] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"4378bd4","method":"POST","route":"/3"}
+[2023-06-02 13:45:10] INSTALL.ERROR: Installation Exception on Step 3: Please provide a password for the existing database. [] {"uid":"4378bd4","method":"POST","route":"/3"}
+[2023-06-02 13:45:31] INSTALL.INFO: Installer Step 3 [] {"uid":"78e2827","method":"POST","route":"/3"}
+[2023-06-02 13:45:31] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"78e2827","method":"POST","route":"/3"}
+[2023-06-02 13:45:33] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. ] [] {"uid":"78e2827","method":"POST","route":"/3"}
+[2023-06-02 14:56:38] INSTALL.INFO: Installer Step 3 [] {"uid":"e34760b","method":"POST","route":"/3"}
+[2023-06-02 14:56:38] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"e34760b","method":"POST","route":"/3"}
+[2023-06-02 14:56:38] INSTALL.ERROR: Installation Exception on Step 3: Please provide an admin user name. [] {"uid":"e34760b","method":"POST","route":"/3"}
+[2023-06-02 14:56:53] INSTALL.INFO: Installer Step 3 [] {"uid":"72bd9f8","method":"POST","route":"/3"}
+[2023-06-02 14:56:53] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"72bd9f8","method":"POST","route":"/3"}
+[2023-06-02 14:56:53] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)] [] {"uid":"72bd9f8","method":"POST","route":"/3"}
+[2023-06-02 14:57:00] INSTALL.INFO: Installer Step 3 [] {"uid":"acfff54","method":"POST","route":"/3"}
+[2023-06-02 14:57:00] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"acfff54","method":"POST","route":"/3"}
+[2023-06-02 14:57:00] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'jmh'@'localhost' (using password: YES)] [] {"uid":"acfff54","method":"POST","route":"/3"}
+[2023-06-02 14:57:25] INSTALL.INFO: Installer Step 3 [] {"uid":"eafe1af","method":"POST","route":"/3"}
+[2023-06-02 14:57:25] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"eafe1af","method":"POST","route":"/3"}
+[2023-06-02 14:57:25] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'jmh'@'localhost' (using password: YES)] [] {"uid":"eafe1af","method":"POST","route":"/3"}
+[2023-06-02 14:57:33] INSTALL.INFO: Installer Step 3 [] {"uid":"2e40b92","method":"POST","route":"/3"}
+[2023-06-02 14:57:33] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"2e40b92","method":"POST","route":"/3"}
+[2023-06-02 14:57:35] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. ] [] {"uid":"2e40b92","method":"POST","route":"/3"}
+[2023-06-02 14:57:42] INSTALL.INFO: Installer Step 3 [] {"uid":"cbb2bb7","method":"POST","route":"/3"}
+[2023-06-02 14:57:42] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"cbb2bb7","method":"POST","route":"/3"}
+[2023-06-02 14:57:42] INSTALL.ERROR: Installation Exception on Step 3: Please provide a password for the existing database. [] {"uid":"cbb2bb7","method":"POST","route":"/3"}
+[2023-06-02 15:05:07] INSTALL.INFO: Installer Step 3 [] {"uid":"7e2f569","method":"POST","route":"/3"}
+[2023-06-02 15:05:07] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"7e2f569","method":"POST","route":"/3"}
+[2023-06-02 15:05:10] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. ] [] {"uid":"7e2f569","method":"POST","route":"/3"}
+[2023-06-02 15:05:18] INSTALL.INFO: Installer Step 3 [] {"uid":"0910b76","method":"POST","route":"/3"}
+[2023-06-02 15:05:18] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"0910b76","method":"POST","route":"/3"}
+[2023-06-02 15:05:20] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. ] [] {"uid":"0910b76","method":"POST","route":"/3"}
+[2023-06-02 15:05:27] INSTALL.INFO: Installer Step 3 [] {"uid":"599057b","method":"POST","route":"/3"}
+[2023-06-02 15:05:27] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"599057b","method":"POST","route":"/3"}
+[2023-06-02 15:05:27] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)] [] {"uid":"599057b","method":"POST","route":"/3"}
+[2023-06-02 15:12:10] INSTALL.INFO: Installer Step 3 [] {"uid":"7523de0","method":"POST","route":"/3"}
+[2023-06-02 15:12:10] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"7523de0","method":"POST","route":"/3"}
+[2023-06-02 15:12:10] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)] [] {"uid":"7523de0","method":"POST","route":"/3"}
+[2023-06-02 15:12:41] INSTALL.INFO: Installer Step 3 [] {"uid":"e57b658","method":"POST","route":"/3"}
+[2023-06-02 15:12:41] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"e57b658","method":"POST","route":"/3"}
+[2023-06-02 15:12:41] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)] [] {"uid":"e57b658","method":"POST","route":"/3"}
+[2023-06-02 15:12:49] INSTALL.INFO: Installer Step 3 [] {"uid":"337125a","method":"POST","route":"/3"}
+[2023-06-02 15:12:49] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"337125a","method":"POST","route":"/3"}
+[2023-06-02 15:12:49] INSTALL.ERROR: Installation Exception on Step 3: Please provide a password for the existing database. [] {"uid":"337125a","method":"POST","route":"/3"}
+[2023-06-02 15:13:01] INSTALL.INFO: Installer Step 3 [] {"uid":"1263d57","method":"POST","route":"/3"}
+[2023-06-02 15:13:01] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"1263d57","method":"POST","route":"/3"}
+[2023-06-02 15:13:01] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)] [] {"uid":"1263d57","method":"POST","route":"/3"}
+[2023-06-02 15:13:18] INSTALL.INFO: Installer Step 3 [] {"uid":"9dccefa","method":"POST","route":"/3"}
+[2023-06-02 15:13:18] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"9dccefa","method":"POST","route":"/3"}
+[2023-06-02 15:13:18] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)] [] {"uid":"9dccefa","method":"POST","route":"/3"}
+[2023-06-02 15:14:53] INSTALL.INFO: Installer Step 3 [] {"uid":"7b5c696","method":"POST","route":"/3"}
+[2023-06-02 15:14:53] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"7b5c696","method":"POST","route":"/3"}
+[2023-06-02 15:14:54] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)] [] {"uid":"7b5c696","method":"POST","route":"/3"}
+[2023-06-02 15:15:15] INSTALL.INFO: Installer Step 3 [] {"uid":"635b479","method":"POST","route":"/3"}
+[2023-06-02 15:15:15] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"635b479","method":"POST","route":"/3"}
+[2023-06-02 15:15:17] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. ] [] {"uid":"635b479","method":"POST","route":"/3"}
+[2023-06-02 15:17:09] INSTALL.INFO: Installer Step 3 [] {"uid":"10ece86","method":"POST","route":"/3"}
+[2023-06-02 15:17:09] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"10ece86","method":"POST","route":"/3"}
+[2023-06-02 15:17:09] INSTALL.ERROR: Installation Exception on Step 3: Could not connect to MySQL with the administrator details. Please check and try again. Error Message = [SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)] [] {"uid":"10ece86","method":"POST","route":"/3"}
+[2023-06-02 15:27:00] INSTALL.INFO: Installer Step 3 [] {"uid":"8b0a285","method":"POST","route":"/3"}
+[2023-06-02 15:27:00] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"8b0a285","method":"POST","route":"/3"}
+[2023-06-02 15:27:00] INSTALL.ERROR: Installation Exception on Step 3: Please provide a password for the existing database. [] {"uid":"8b0a285","method":"POST","route":"/3"}
+[2023-06-02 15:28:19] INSTALL.INFO: Installer Step 3 [] {"uid":"249abb3","method":"POST","route":"/3"}
+[2023-06-02 15:28:19] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"249abb3","method":"POST","route":"/3"}
+[2023-06-02 15:28:21] INSTALL.INFO: Installer Step 4 [] {"uid":"1794985","method":"GET","route":"/4"}
+[2023-06-02 15:28:29] INSTALL.INFO: Installer Step 5 [] {"uid":"04741e4","method":"POST","route":"/5"}
+[2023-06-02 15:28:29] INSTALL.INFO: Installer Step 6 [] {"uid":"6d93fa8","method":"GET","route":"/6"}
+[2023-06-02 15:28:58] INSTALL.INFO: Installer Step 7 [] {"uid":"9d23a28","method":"POST","route":"/7"}
+[2023-06-02 15:28:58] INSTALL.ERROR: Installation Exception on Step 7: Missing the library location. [] {"uid":"9d23a28","method":"POST","route":"/7"}
+[2023-06-02 15:30:09] INSTALL.INFO: Installer Step 7 [] {"uid":"2ecd7f6","method":"POST","route":"/7"}
+[2023-06-02 15:30:14] INSTALL.ERROR: Installation Exception on Step 7: The Library Location you gave is not empty. Please give the location of an empty folder [] {"uid":"2ecd7f6","method":"POST","route":"/7"}
+[2023-06-02 15:30:44] INSTALL.INFO: Installer Step 7 [] {"uid":"4e1c3cb","method":"POST","route":"/7"}
+[2023-06-02 15:30:44] INSTALL.INFO: Installation Complete. Redirecting to /xibo/web/login [] {"uid":"4e1c3cb","method":"POST","route":"/7"}
